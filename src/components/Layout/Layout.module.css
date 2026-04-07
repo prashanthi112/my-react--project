@@ -1,0 +1,18 @@
+
+/* MAIN WRAPPER */
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: #fafafa; /* Scandinavian soft background */
+}
+
+/* MAIN CONTENT AREA */
+.main {
+  flex: 1;
+  padding: 40px;
+  max-width: 900px;
+  margin: 0 auto; /* centers all page content */
+  width: 100%;
+  text-align: center; /* centers About page text */
+}
