@@ -1,6 +1,5 @@
 import React from "react";
-import HeroSection from "../../components/HeroSection/HeroSection";
-import DestinationCard from "../../components/DestinationCard/DestinationCard";
+import HeroSection from "../../components/HeroSection/HeroSection";git add .
 import { destinations } from "../../data/destinations";
 
 export default function Destinations() {
